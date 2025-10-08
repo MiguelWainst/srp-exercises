@@ -31,3 +31,4 @@ Cada classe possui múltiplas responsabilidades. Sua tarefa é dividi-las em nov
 Se você precisar explicar em **mais de uma frase** o que uma classe faz, ela provavelmente **viola o SRP**.
 
 # srp-exercises
+# srp-exercises
